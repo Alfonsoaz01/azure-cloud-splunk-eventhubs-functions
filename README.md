@@ -79,3 +79,6 @@ Microsoft stores the above values as [application settings](https://docs.microso
 
 ## Support
 This software is released as-is. Splunk provides no warranty and no support on this software. If you have any issues with the software, please file an issue on the repository.
+
+# Important Information
+Original repository belongs to https://github.com/splunk/azure-functions-splunk 
